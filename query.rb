@@ -33,7 +33,7 @@ end
 
 
 books = []
-open('ebookhack/30_metadata.json').each do |line|
+open('30_metadata.json').each do |line|
 	metadata = JSON.parse(line)
 	book = build_book(metadata)
 	
