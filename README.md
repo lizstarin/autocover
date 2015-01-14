@@ -1,6 +1,6 @@
 # Autocover
 
-Finds book cover images in the [NYPL digital image repository](http://digitalcollections.nypl.org/).
+Finds cover images for [Project Gutenberg](http://www.gutenberg.org) books in the [NYPL digital image repository](http://digitalcollections.nypl.org/).
 
 ### To run:
 ```
