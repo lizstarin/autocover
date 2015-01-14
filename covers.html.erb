@@ -1,7 +1,10 @@
 <ul>
 <% books.each do |b| %>
-  <li class="book">
-    <%= "#{b['title']}" %>
+  <li class="book" style="background-image: url(<%="http://images.nypl.org/index.php?id=#{b['image_id']}&t=w"%>);">
+  	<div class="text-block">
+  		<div class="title"><%= "#{b['title']}" %></div>
+  		<div class="author"><%= "#{b['author']}" %></div>
+  	</div>
   </li>
 <% end %>
 </ul>
