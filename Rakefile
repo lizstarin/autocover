@@ -1,4 +1,4 @@
 task :run do
 	`bundle install`
-	puts `ruby test_query.rb`
+	puts `ruby query.rb`
 end
