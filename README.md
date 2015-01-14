@@ -2,10 +2,10 @@
 
 Finds book cover images in the NYPL digital image repository.
 
-To run:
+### To run:
 ```
 rake run
 ```
 
-To view covers:
+### To view covers:
 open ```index.html``` (generated)
