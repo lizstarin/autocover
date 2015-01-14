@@ -1,6 +1,6 @@
 # Autocover
 
-Finds book cover images in the NYPL digital image repository.
+Finds book cover images in the [NYPL digital image repository](http://digitalcollections.nypl.org/).
 
 ### To run:
 ```
